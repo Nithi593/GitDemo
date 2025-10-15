@@ -28,3 +28,10 @@ print(f"Addition: {obj.addition()}")
 print(f"Subtraction: {obj.subtraction()}")
 print(f"Multiplication: {obj.multiplication()}")
 print(f"Division: {obj.division()}")
+
+obj = BasicCalculator(10, 5)
+
+print(f"Addition: {obj.addition()}")
+print(f"Subtraction: {obj.subtraction()}")
+print(f"Multiplication: {obj.multiplication()}")
+print(f"Division: {obj.division()}")
