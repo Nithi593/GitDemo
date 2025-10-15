@@ -19,6 +19,9 @@ class BasicCalculator:
     def multiplication(self):
         return self.a * self.b
 
+    def multiplication_one(self):
+        return self.a * self.b
+
     def division(self):
         return self.a / self.b
 
