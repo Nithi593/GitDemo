@@ -22,3 +22,9 @@ with open('text.txt', 'r') as reader:
     content = reader.readlines()
     with open('text.txt', 'w') as writer:
         writer.writelines(reversed(content))
+
+print("New branch")
+
+print("New branch")
+
+print("New branch")

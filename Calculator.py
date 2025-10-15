@@ -7,7 +7,13 @@ class BasicCalculator:
     def addition(self):
         return self.a + self.b
 
+    def addition_one(self):
+        return self.a + self.b
+
     def subtraction(self):
+        return self.a - self.b
+
+    def subtraction_one(self):
         return self.a - self.b
 
     def multiplication(self):
